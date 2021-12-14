@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+
+img.vco-media-item.vco-media-image.vco-media-shadow {
+    box-shadow: none;
+	max-height: 300px !important;
+}
+
+h2.vco-headline {
+    font-family: helvetica neue,helvetica,verdana,arial,sans-serif !important;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+
+.vco-storymap a {
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 10px;
+    background: #329bc1;
+    text-transform: uppercase;
+    font-family: helvetica neue,helvetica,verdana,arial,sans-serif !important;
+    font-size: 12px;
+    font=weight: 600;
+}
+
+.vco-storymap a:hover {
+	colour: #fff;
+}
+.vco-text-content {
+    text-align: center;
+}
